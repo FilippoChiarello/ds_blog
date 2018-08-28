@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
+      <loc>/publication/user_extraction/</loc>
       <lastmod>2018-07-18T00:00:00+02:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/project/technimeter40/</loc>
+      <loc>/courses/technimeter40/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -115,16 +115,7 @@
     
     <url>
     
-      <loc>/tags/data-science/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/engineering-management/</loc>
+      <loc>/courses/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -134,7 +125,9 @@
     
     <url>
     
-      <loc>/project/patent_entity_recognition/</loc>
+      <loc>/tags/data-science/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -161,9 +154,7 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>/courses/pssp/</loc>
     </url>
     
   
@@ -173,6 +164,16 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2018-07-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/r/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,6 +223,7 @@
     <url>
     
       <loc>/tags/text-mining/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

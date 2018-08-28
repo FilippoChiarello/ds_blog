@@ -12,10 +12,10 @@
     
     <item>
       <title>Automatic users extraction from patents</title>
-      <link>/publication/person-re-identification/</link>
+      <link>/publication/user_extraction/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/user_extraction/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -43,11 +43,11 @@
     </item>
     
     <item>
-      <title>Engineering Management</title>
-      <link>/project/technimeter40/</link>
+      <title>Strategic and Competitive Intelligence</title>
+      <link>/courses/technimeter40/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/project/technimeter40/</guid>
+      <guid>/courses/technimeter40/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 </description>
     </item>
@@ -63,15 +63,12 @@
     </item>
     
     <item>
-      <title>Named Entity Recognition Tools for Patents</title>
-      <link>/project/patent_entity_recognition/</link>
+      <title>Products &amp; Processes Design (PSSP)</title>
+      <link>/courses/pssp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/patent_entity_recognition/</guid>
-      <description>&lt;p&gt;Patents are rich in legal and technical terms and this causes the need for considerable amount of human effort in their analysis. The main stakeholders potentially interested in patents are engineers, designers and marketers. Un- fortunately, due to the legal and technical language, these stakeholders have limited access to the information contained in patents.
-This research projec has the aim of developing a process based on natural language processing techniques that automatically detects and extracts relevant entities from patetns. These entities are chosen to be important for engineers, designers and marketers because for an effective development of new products.
-The process we adotp starts from a generic list of words, indicated as ”clues”, that allows to enlight a whole sentence referring to a specific entity. Then this list is expanded using a named entity recognition system that creates a domain specific list of clues.&lt;/p&gt;
-</description>
+      <guid>/courses/pssp/</guid>
+      <description></description>
     </item>
     
   </channel>
