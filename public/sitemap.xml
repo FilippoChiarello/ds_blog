@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/change_site/</loc>
+      <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/user_extraction/</loc>
       <lastmod>2018-07-18T00:00:00+02:00</lastmod>
     </url>
@@ -68,17 +77,8 @@
     
     <url>
     
-      <loc>/courses/technimeter40/</loc>
+      <loc>/project/sci/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -115,7 +115,7 @@
     
     <url>
     
-      <loc>/courses/</loc>
+      <loc>/tags/data-science/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -125,8 +125,8 @@
     
     <url>
     
-      <loc>/tags/data-science/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <loc>/categories/generic/</loc>
+      <lastmod>2018-08-25T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,9 +144,7 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
+      <loc>/project/pssp/</loc>
     </url>
     
   
@@ -154,7 +152,9 @@
     
     <url>
     
-      <loc>/courses/pssp/</loc>
+      <loc>/project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -174,36 +174,6 @@
     
       <loc>/tags/r/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
