@@ -37,7 +37,7 @@ I study how to use Data Science tools for Innovation Management.
 
 In this blog you can find:
 
-- __Posts__: Projects i'm working on, books that i like, cool blog posts from other researchers, mind-blowing talks and so on.
+- __Posts__: Projects i'm working on, books that i love, cool blog posts from other researchers, mind-blowing talks and so on.
 - __Courses Materials__: News and materials for the my courses.
 - __Pubblications__: My latest research activities.
 

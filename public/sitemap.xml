@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/person-re-identification/</loc>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/technimeter/</loc>
+      <lastmod>2018-04-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -50,26 +68,8 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
+      <loc>/project/technimeter40/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -79,15 +79,6 @@
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -105,18 +96,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,7 +116,6 @@
     <url>
     
       <loc>/tags/data-science/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -146,6 +126,23 @@
     
       <loc>/tags/engineering-management/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/patent_entity_recognition/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/patents/</loc>
       <priority>0</priority>
     </url>
     
@@ -175,7 +172,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-07-18T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,6 +213,15 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/text-mining/</loc>
       <priority>0</priority>
     </url>
     

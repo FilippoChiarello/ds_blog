@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>Data Science</title>
-      <link>/project/deep-learning/</link>
+      <title>Engineering Management</title>
+      <link>/project/technimeter40/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid>/project/technimeter40/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
-      <title>Engineering Management</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Named Entity Recognition Tools for Patents</title>
+      <link>/project/patent_entity_recognition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <guid>/project/patent_entity_recognition/</guid>
+      <description>Patents are rich in legal and technical terms and this causes the need for considerable amount of human effort in their analysis. The main stakeholders potentially interested in patents are engineers, designers and marketers. Un- fortunately, due to the legal and technical language, these stakeholders have limited access to the information contained in patents. This research projec has the aim of developing a process based on natural language processing techniques that automatically detects and extracts relevant entities from patetns.</description>
     </item>
     
   </channel>

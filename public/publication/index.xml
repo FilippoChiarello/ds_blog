@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
+      <title>Automatic users extraction from patents</title>
       <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/person-re-identification/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      <title>Extracting and mapping industry 4.0 technologies using wikipedia</title>
+      <link>/publication/technimeter/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/technimeter/</guid>
+      <description> More detail can easily be written here using Markdown and $\rm \LaTeX$ math code. </description>
     </item>
     
   </channel>
