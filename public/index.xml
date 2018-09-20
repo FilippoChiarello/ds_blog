@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>SCI: 1st Lesson Instructions</title>
+      <link>/post/sci-1st-lesson-instructions/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sci-1st-lesson-instructions/</guid>
+      <description>&lt;p&gt;In the first lesson we will talk about the &lt;strong&gt;importance of programming for competitive and strategic intelligence&lt;/strong&gt;, with a particular focus on the possible programming languages available.&lt;/p&gt;
+&lt;p&gt;Then, since in this course you will learn how to use R, we will introduce this programming language. For this reason i ask you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Go to the R project page (&lt;a href=&#34;https://cran.r-project.org/&#34; class=&#34;uri&#34;&gt;https://cran.r-project.org/&lt;/a&gt;) &lt;em&gt;and download and install the r-version compatible with your system&lt;/em&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Go to the R Studio page (&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; class=&#34;uri&#34;&gt;https://www.rstudio.com/products/rstudio/download/&lt;/a&gt;) and &lt;em&gt;download and install the R studio IDE&lt;/em&gt;;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Open R studio and, using the console window at the bottom left, &lt;em&gt;install the tidyverse packages&lt;/em&gt; using the instruction at the following page (&lt;a href=&#34;https://tidyverse.tidyverse.org/&#34; class=&#34;uri&#34;&gt;https://tidyverse.tidyverse.org/&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any question please contact me on the Slack.&lt;/p&gt;
+&lt;p&gt;See you tomorrow!&lt;/p&gt;
+&lt;p&gt;Filippo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Website</title>
       <link>/post/change_site/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>

@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>SCI: 1st Lesson Instructions</title>
+      <link>/post/sci-1st-lesson-instructions/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sci-1st-lesson-instructions/</guid>
+      <description>In the first lesson we will talk about the importance of programming for competitive and strategic intelligence, with a particular focus on the possible programming languages available.
+Then, since in this course you will learn how to use R, we will introduce this programming language. For this reason i ask you to:
+ Go to the R project page (https://cran.r-project.org/) and download and install the r-version compatible with your system;</description>
+    </item>
+    
+    <item>
       <title>New Website</title>
       <link>/post/change_site/</link>
       <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
