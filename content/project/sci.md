@@ -23,4 +23,8 @@ math = false
 
 +++
 
-The github page with the material for the course will be aviable soon. 
+The github page with the material for the course is on GitHub:
+
+https://github.com/FilippoChiarello/SCI_material
+
+
