@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/sci-instructions-for-the-1st-lesson/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/change_site/</loc>
       <lastmod>2018-08-25T00:00:00+00:00</lastmod>
     </url>
@@ -96,6 +105,14 @@
     
     <url>
     
+      <loc>/post/2018-09-20-sci-instructions-for-the-1st-lesson/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2018-07-18T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -174,6 +191,26 @@
     
       <loc>/tags/r/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/r/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/sci/</loc>
+      <lastmod>2018-09-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
