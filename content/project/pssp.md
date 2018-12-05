@@ -26,4 +26,7 @@ math = false
 
 +++
 
-The github page with the material for the course will be aviable soon. 
+The slides of the course are available at the sequent link: 
+
+https://www.dropbox.com/sh/vwazzv3l07q03bo/AABopcj48-5uivOJSoRgcryRa?dl=0
+
