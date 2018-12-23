@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://gifted-goldberg-c73c64.netlify.com/* http://www.filippochiarello.com/:splat 301!
