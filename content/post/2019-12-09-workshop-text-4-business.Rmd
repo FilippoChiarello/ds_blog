@@ -3,8 +3,6 @@ title: 'Workshop: Text 4 Business'
 author: Filippo Chiarello
 date: '2019-12-09'
 slug: workshop-text-4-business
-categories: []
-tags: []
 header:
   caption: ''
   image: ''
