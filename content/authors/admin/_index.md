@@ -44,4 +44,4 @@ Filippo Chiarello is an assistant professor of Strategic and Competitive Intelli
 
 His research is mainly focused on data science and text mining tools to build systems able to automatically extract knowledgeable information from technical documents. The ability to mix ontologies and technical dictionaries with natural language processing techniques brought his methods to be applied in both research and business.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
