@@ -50,4 +50,11 @@ experience:
   description: Erre Quadro's solutions combine state-of-the-art computational linguistics software with sophisticated technology representation for patent analysis.
   location: Italy
   title: R&D Consultant
+- company: Vanz
+  company_url: "http://vanz.eu"
+  date_end: ""
+  date_start: "2008-10-01"
+  description: In my spare time i used to play in a rock band. I play better than I write, so listen to us on [Spotify](https://open.spotify.com/artist/4i3kVukx8fXlAQxeEhxQtk?si=XE6i16vcTY2XRreKPTDfTw). 
+  location: Italy
+  title: Guitar and Bass Player
 ---
