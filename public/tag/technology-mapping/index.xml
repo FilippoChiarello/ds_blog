@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology mapping | Filippo Chiarello</title>
+    <link>/tag/technology-mapping/</link>
+      <atom:link href="/tag/technology-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>technology mapping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huce798d18068a9fdebf7468819f39f651_5224_512x512_fill_lanczos_center_2.png</url>
+      <title>technology mapping</title>
+      <link>/tag/technology-mapping/</link>
+    </image>
+    
+    <item>
+      <title>Assets&#43;</title>
+      <link>/project/assets&#43;/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/assets&#43;/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been involved as WP1 leader. The main objective of WP1 is to  operationalize the activities coming from projects like EDSP and COSME and translate their high-level results in concrete actionable comcepts to be trained in new education and training programmes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://assets-plus.eu/results-from-wp1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See the results from WP1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

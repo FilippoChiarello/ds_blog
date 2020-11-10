@@ -1,19 +1,5 @@
 ---
 bio: My research interests include natural language processing and innovation management.
-education:
-  courses:
-  - course: Assistant Professor
-    institution: University of Pisa
-    year: 2020
-  - course: Ph.D. in Engineering Management & Data Science
-    institution: University of Pisa
-    year: 2018
-email: "filippo.chiarello@unipi.it"
-highlight_name: false
-interests:
-- Natural Language Processing
-- Innovation Management
-- Human Resource Management
 organizations:
 - name: University of Pisa
   url: https://www.unipi.it/
@@ -40,8 +26,14 @@ user_groups:
 - Principal Investigators
 ---
 
-Filippo Chiarello is an assistant professor of Strategic and Competitive Intelligence at the University of Pisa. His research interests include Natural Language Processing, Innovation Management and Human Resources Management. He is part of the Business Engineering 4 Data Science Group ([B4DS](http://b4ds.unipi.it/)). 
+I am an assistant professor of Strategic and Competitive Intelligence at the University of Pisa. My research interests include Natural Language Processing, Innovation Management and Human Resources Management. I'm proudly part of Business Engineering 4 Data Science  ([B4DS](http://b4ds.unipi.it/)) Research Team. 
 
-His research is mainly focused on data science and text mining tools to build systems able to automatically extract knowledgeable information from technical documents. The ability to mix ontologies and technical dictionaries with natural language processing techniques brought his methods to be applied in both research and business.
+I also love teaching, and this page is intended to be a part of the learning process of myself and of my students, despite their background (engineering, computer science, economy) and level (MSc or PhD students). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+In this page you can find: 
+- __Posts__: _short articles and R/Python noteboks about my topics of interest_
+- __Projects__: _the research projects I'm working on with my team_
+- __Pubblications__: _a summary and links to all my scientific pubblications_
+- __Courses__: _additional contents and all the links from my courses_
+
+

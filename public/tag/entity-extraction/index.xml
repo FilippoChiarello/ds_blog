@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entity Extraction | Filippo Chiarello</title>
+    <link>/tag/entity-extraction/</link>
+      <atom:link href="/tag/entity-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Entity Extraction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huce798d18068a9fdebf7468819f39f651_5224_512x512_fill_lanczos_center_2.png</url>
+      <title>Entity Extraction</title>
+      <link>/tag/entity-extraction/</link>
+    </image>
+    
+    <item>
+      <title>Technical Lexicons Design</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
