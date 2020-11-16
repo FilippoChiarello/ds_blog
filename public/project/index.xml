@@ -27,7 +27,9 @@
       <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/internal-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;Text mining techniques are being adopted in many fields to face the problem of extracting meaningful information hidden in unstructured data. Hybrid processes (human-machine) of knowledge extraction are usually the best solution. Anyway, state-of-art literature on Natural Language Processing (NLP) lacks in process management studies: research did not focuses yet on ways to integrate NLP outputs and human activities.&lt;/p&gt;
+&lt;p&gt;Me and my resarch team focus our research on information extraction from texts for developing &lt;strong&gt;technical lexicons&lt;/strong&gt;. Our knowledge base integrates many entities (e.g. users, technologies, advantages, disadvantages, skills and knowledges). Our onjective is to create a standardized knowledge base of innovation, using bottom-up and top-down approaches. Such a knowledge base, in combination with state of the art techniques of NLP, will drammatically foster the performances of Artificial Intelligence Systems in the context of technical documents analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
