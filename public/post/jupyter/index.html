@@ -34,7 +34,7 @@
   
     
   
-  <meta name="description" content="Learn how to blog in Academic using Jupyter notebooks">
+  <meta name="description" content="A selection of my favourite materials for learning the tidyverse">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/jupyter/">
@@ -276,14 +276,14 @@
   
   <meta property="og:site_name" content="Filippo Chiarello">
   <meta property="og:url" content="/post/jupyter/">
-  <meta property="og:title" content="Display Jupyter Notebooks with Academic | Filippo Chiarello">
-  <meta property="og:description" content="Learn how to blog in Academic using Jupyter notebooks"><meta property="og:image" content="/post/jupyter/featured.png">
+  <meta property="og:title" content="Learning R the Tidyverse Way | Filippo Chiarello">
+  <meta property="og:description" content="A selection of my favourite materials for learning the tidyverse"><meta property="og:image" content="/post/jupyter/featured.png">
   <meta property="twitter:image" content="/post/jupyter/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-02-05T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-11-17T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2019-09-05T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-11-17T00:00:00&#43;00:00">
   
 
   
@@ -309,14 +309,14 @@
     "@type": "WebPage",
     "@id": "/post/jupyter/"
   },
-  "headline": "Display Jupyter Notebooks with Academic",
+  "headline": "Learning R the Tidyverse Way",
   
   "image": [
     "/post/jupyter/featured.png"
   ],
   
-  "datePublished": "2019-02-05T00:00:00Z",
-  "dateModified": "2019-09-05T00:00:00Z",
+  "datePublished": "2020-11-17T00:00:00Z",
+  "dateModified": "2020-11-17T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -331,7 +331,7 @@
       "url": "/images/icon_huce798d18068a9fdebf7468819f39f651_5224_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Learn how to blog in Academic using Jupyter notebooks"
+  "description": "A selection of my favourite materials for learning the tidyverse"
 }
 </script>
 
@@ -349,7 +349,7 @@
 
 
 
-  <title>Display Jupyter Notebooks with Academic | Filippo Chiarello</title>
+  <title>Learning R the Tidyverse Way | Filippo Chiarello</title>
 
 </head>
 
@@ -693,10 +693,10 @@
 
 
 <div class="article-container pt-3">
-  <h1>Display Jupyter Notebooks with Academic</h1>
+  <h1>Learning R the Tidyverse Way</h1>
 
   
-  <p class="page-subtitle">Learn how to blog in Academic using Jupyter notebooks</p>
+  <p class="page-subtitle">My favourite materials, always updated! Tidyverse</p>
   
 
   
@@ -722,10 +722,8 @@
     
     
       
-          Last updated on
-      
     
-    Sep 5, 2019
+    Nov 17, 2020
   </span>
   
 
@@ -734,7 +732,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    1 min read
   </span>
   
 
@@ -765,9 +763,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 313px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 266px;">
   <div style="position: relative">
-    <img src="/post/jupyter/featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/post/jupyter/featured_hua3e9d0d3b1ffd8246c4fb5f6801c2e75_62855_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -777,42 +775,15 @@
   <div class="article-container">
 
     <div class="article-style">
-      <pre><code class="language-python">from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-</code></pre>
-<p><img src="./index_1_0.png" alt="png"></p>
-<pre><code class="language-python">print(&quot;Welcome to Academic!&quot;)
-</code></pre>
-<pre><code>Welcome to Academic!
-</code></pre>
-<h2 id="install-python-and-jupyterlab">Install Python and JupyterLab</h2>
-<p><a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda</a> which includes Python 3 and JupyterLab.</p>
-<p>Alternatively, install JupyterLab with <code>pip3 install jupyterlab</code>.</p>
-<h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook</h2>
-<p>Run the following commands in your Terminal, substituting <code>&lt;MY-WEBSITE-FOLDER&gt;</code> and <code>&lt;SHORT-POST-TITLE&gt;</code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:</p>
-<pre><code class="language-bash">mkdir -p &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
-cd &lt;MY-WEBSITE-FOLDER&gt;/content/post/&lt;SHORT-POST-TITLE&gt;/
-jupyter lab index.ipynb
-</code></pre>
-<p>The <code>jupyter</code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.</p>
-<h2 id="edit-your-post-metadata">Edit your post metadata</h2>
-<p>The first cell of your Jupter notebook will contain your post metadata (<a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter</a>).</p>
-<p>In Jupter, choose <em>Markdown</em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:</p>
-<pre><code>---
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-</code></pre>
-<p>Edit the metadata of your post, using the <a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation</a> as a guide to the available options.</p>
-<p>To set a <a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image</a>, place an image named <code>featured</code> into your post&rsquo;s folder.</p>
-<p>For other tips, such as using math, see the guide on <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic</a>.</p>
-<h2 id="convert-notebook-to-markdown">Convert notebook to Markdown</h2>
-<pre><code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-</code></pre>
-<h2 id="example">Example</h2>
-<p>This post was created with Jupyter. The orginal files can be found at <a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter</a></p>
+      <h2 id="tidyverse-a-universe-of-material">Tidyverse, a universe of material</h2>
+<p>The <a href="https://www.tidyverse.org/" target="_blank" rel="noopener">Tidyverse</a>  is a collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.</p>
+<p>There exists tons of books, websites, blogs and many other soruces for learning how to use this amazing packages. I say amazing, because these has made my coding life much easyer, and helped me a lot in introducing studnets with no computer science background to programming for data science.</p>
+<p>Here, a collection of my favourite materials for learning it. Everything is online and FREE. The material is grouped by kind of source and i will keep it updated as new material will come out.</p>
+<h1 id="books">Books</h1>
+<p><a href="https://r4ds.had.co.nz/" target="_blank" rel="noopener">R for Data Science</a>: the Queen of Queens. Written by Hadley Wickham and Garrett Grolemund, this book will teach you how to do data science with R. You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it, everything using the tidyverse packages.</p>
+<h1 id="scientific-papers">Scientific Papers</h1>
+<h1 id="blogs">Blogs</h1>
+<h1 id="git-hub-repos">Git-hub Repos</h1>
 
     </div>
 
@@ -836,7 +807,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/jupyter/&amp;text=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/jupyter/&amp;text=Learning%20R%20the%20Tidyverse%20Way" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -849,7 +820,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/jupyter/&amp;t=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/jupyter/&amp;t=Learning%20R%20the%20Tidyverse%20Way" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -862,7 +833,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="mailto:?subject=Display%20Jupyter%20Notebooks%20with%20Academic&amp;body=/post/jupyter/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Learning%20R%20the%20Tidyverse%20Way&amp;body=/post/jupyter/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -875,7 +846,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/jupyter/&amp;title=Learning%20R%20the%20Tidyverse%20Way" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -888,7 +859,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="whatsapp://send?text=Display%20Jupyter%20Notebooks%20with%20Academic%20/post/jupyter/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Learning%20R%20the%20Tidyverse%20Way%20/post/jupyter/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -901,7 +872,7 @@ date: 2019-09-01
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/jupyter/&amp;title=Display%20Jupyter%20Notebooks%20with%20Academic" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/jupyter/&amp;title=Learning%20R%20the%20Tidyverse%20Way" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
